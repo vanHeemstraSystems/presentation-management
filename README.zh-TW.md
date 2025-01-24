@@ -1,13 +1,13 @@
 演示管理
 
-# Presentation Management
+# 演示管理
 
-> 板條
+> 斯拉格萊恩
 
--   [DNS](./DNS.md)
+-   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主持人](./HOSTS.md)
+-   [主辦單位](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -20,7 +20,7 @@
 
 生成[ritr](https://app.rytr.me)
 
-## 100 - 簡介
+## 100-簡介
 
 看[README.md](./100/README.md)
 
@@ -32,6 +32,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400-結論
 
 看[README.md](./400/README.md)
