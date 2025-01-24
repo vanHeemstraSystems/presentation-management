@@ -9,7 +9,7 @@ Präsentationsmanagement
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Gedämpft](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -24,14 +24,14 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Anforderungen
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Aufbau unserer Bewerbung
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Schlussfolgerung
 
 Sehen[README.md](./400/README.md)
