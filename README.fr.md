@@ -1,15 +1,15 @@
-nom du référentiel
+gestion des présentations
 
-# Nom du référentiel
+# Presentation Management
 
-> Slugline
+> Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Sous-homme](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
@@ -24,7 +24,7 @@ Généré avec[Ritr](https://app.rytr.me)
 
 Voir[README.md](./100/README.md)
 
-## 200 - exigences
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
