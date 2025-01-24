@@ -1,6 +1,6 @@
-gestion des présentations
+gestion de présentation
 
-# Presentation Management
+# Gestion de la présentation
 
 > Lisc
 
@@ -9,7 +9,7 @@ gestion des présentations
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Tamisé](./PODMAN.md)
+-   [Sous-homme](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
@@ -24,7 +24,7 @@ Généré avec[Ritr](https://app.rytr.me)
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - exigences
 
 Voir[README.md](./200/README.md)
 
