@@ -1,8 +1,8 @@
 gestión de presentaciones
 
-# Gestión de presentaciones
+# Gestión de la presentación
 
-> Línea de babosa
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ gestión de presentaciones
 
 Texto
 
-Generado con[Ritro](https://app.rytr.me)
+Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
