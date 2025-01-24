@@ -1,15 +1,15 @@
-repository-name
+اسم المستودع
 
 # اسم المستودع
 
-> Slugline
+> سلوجلاين
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [رجل فرعي](./PODMAN.md)
+-   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -32,6 +32,6 @@ repository-name
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - الخلاصة
 
 يرى[README.md](./400/README.md)
