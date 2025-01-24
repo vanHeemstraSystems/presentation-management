@@ -1,15 +1,15 @@
-repository-naam
+presentatie-management
 
-# Repository -naam
+# Presentation Management
 
 > Sluglijn
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Beelden](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Afbeeldingen](./IMAGES.md)
+-   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
