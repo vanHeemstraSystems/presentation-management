@@ -1,14 +1,14 @@
-存储库名称
+演示管理
 
-# 存储库名称
+# 演示管理
 
-> 板条
+> 斯拉格莱恩
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -18,7 +18,7 @@
 
 文本
 
-生成于[ritr](https://app.rytr.me)
+生成[里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -32,6 +32,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400-结论
 
 看[README.md](./400/README.md)
