@@ -1,6 +1,6 @@
-repository-name
+gestión de presentaciones
 
-# Nombre de repositorio
+# Gestión de presentaciones
 
 > Línea de babosa
 
@@ -18,7 +18,7 @@ repository-name
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
