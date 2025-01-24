@@ -1,4 +1,4 @@
-presentation-management
+प्रस्तुति-प्रबंधन
 
 # प्रस्तुति प्रबंधन
 
@@ -18,7 +18,7 @@ presentation-management
 
 मूलपाठ
 
-के साथ उत्पन्न हुआ[रिट्र](https://app.rytr.me)
+के साथ उत्पन्न[Rytr](https://app.rytr.me)
 
 ## 100 - परिचय
 
