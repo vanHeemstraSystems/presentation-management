@@ -5,7 +5,7 @@ gestión de presentación
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
@@ -18,7 +18,7 @@ gestión de presentación
 
 Texto
 
-Generado con[Ritro](https://app.rytr.me)
+Generated with [Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
