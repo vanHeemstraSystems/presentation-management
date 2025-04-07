@@ -1,4 +1,4 @@
-प्रस्तुति-प्रबंधन
+presentation-management
 
 # प्रस्तुति प्रबंधन
 
