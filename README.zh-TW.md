@@ -1,4 +1,4 @@
-演示管理
+presentation-management
 
 # 演示管理
 
