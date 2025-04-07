@@ -1,4 +1,4 @@
-presentatiebeheer
+presentation-management
 
 # Presentatiebeheer
 
@@ -6,7 +6,7 @@ presentatiebeheer
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
--   [Glossarium](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Subman](./PODMAN.md)
@@ -20,11 +20,11 @@ Tekst
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
-## 200 - Vereisten
+## 200 - Requirements
 
 Zien[README.md](./200/README.md)
 
