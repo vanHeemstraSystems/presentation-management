@@ -2,12 +2,12 @@
 
 # 演示管理
 
-> 斯拉格萊恩
+> 板條
 
--   [域名系統](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主辦單位](./HOSTS.md)
+-   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
