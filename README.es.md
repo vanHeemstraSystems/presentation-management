@@ -1,6 +1,6 @@
 gestión de presentación
 
-# Presentation Management
+# Gestión de la presentación
 
 > Línea de babosa
 
@@ -9,7 +9,7 @@ gestión de presentación
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
