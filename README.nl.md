@@ -11,14 +11,14 @@ presentatiebeheer
 -   [Beelden](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Vereisten](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
 
 Tekst
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
@@ -28,7 +28,7 @@ Zien[README.md](./100/README.md)
 
 Zien[README.md](./200/README.md)
 
-## 300 - onze applicatie bouwen
+## 300 - Building Our Application
 
 Zien[README.md](./300/README.md)
 
