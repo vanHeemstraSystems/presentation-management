@@ -2,7 +2,7 @@ presentatiebeheer
 
 # Presentatiebeheer
 
-> Sluglijn
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ presentatiebeheer
 
 Tekst
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Gegenereerd met[Rytr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
