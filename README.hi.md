@@ -1,13 +1,13 @@
 प्रस्तुति-प्रबंधन
 
-# प्रस्तुति प्रबंधन
+# Presentation Management
 
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
--   [प्रलेखन](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [मेजबान](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
