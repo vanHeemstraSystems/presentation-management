@@ -2,7 +2,7 @@ gestión de presentación
 
 # Gestión de la presentación
 
-> Slugline
+> Línea de babosa
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ gestión de presentación
 
 Texto
 
-Generated with [Ritro](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
