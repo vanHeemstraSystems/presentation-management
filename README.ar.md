@@ -20,7 +20,7 @@
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
