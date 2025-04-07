@@ -1,12 +1,12 @@
 gestion de présentation
 
-# Presentation Management
+# Gestion de la présentation
 
 > Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Sous-homme](./PODMAN.md)
@@ -14,7 +14,7 @@ gestion de présentation
 -   [Exigences](./REQUIREMENTS.md)
 -   [Telemetry](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
@@ -22,11 +22,11 @@ Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - exigences
 
-See [README.md](./200/README.md)
+Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
@@ -34,4 +34,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
