@@ -10,7 +10,7 @@ Präsentationsmanagement
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
