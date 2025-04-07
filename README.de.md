@@ -9,8 +9,8 @@ Präsentationsmanagement
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
+-   [Subman](./PODMAN.md)
+-   [References](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
