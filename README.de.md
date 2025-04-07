@@ -9,7 +9,7 @@ Präsentationsmanagement
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -18,7 +18,7 @@ Präsentationsmanagement
 
 Text
 
-Generated with [Ritr](https://app.rytr.me)
+Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
@@ -30,7 +30,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
