@@ -6,7 +6,7 @@ gestión de presentación
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
@@ -26,7 +26,7 @@ Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
-See [README.md](./200/README.md)
+Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
