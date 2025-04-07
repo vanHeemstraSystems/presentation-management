@@ -1,4 +1,4 @@
-presentation-management
+演示管理
 
 # 演示管理
 
@@ -18,7 +18,7 @@ presentation-management
 
 文本
 
-Generated with [ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-简介
 
