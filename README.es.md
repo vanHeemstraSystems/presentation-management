@@ -2,10 +2,10 @@ gestión de presentación
 
 # Gestión de la presentación
 
-> Línea de babosa
+> Slugline
 
 -   [DNS](./DNS.md)
--   [Documentación](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
