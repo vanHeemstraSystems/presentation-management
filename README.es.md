@@ -5,22 +5,22 @@ gestión de presentación
 > Línea de babosa
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
 Generado con[Ritro](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
@@ -28,7 +28,7 @@ Ver[README.md](./100/README.md)
 
 Ver[README.md](./200/README.md)
 
-## 300 - Construyendo nuestra aplicación
+## 300 - Building Our Application
 
 Ver[README.md](./300/README.md)
 
