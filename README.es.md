@@ -12,7 +12,7 @@ gestión de presentación
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetría](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
