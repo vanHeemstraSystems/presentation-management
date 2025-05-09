@@ -7,7 +7,7 @@ presentatiebeheer
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
@@ -16,11 +16,11 @@ presentatiebeheer
 
 **Uitvoerende samenvatting**
 
-Tekst
+Text
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Gegenereerd met[Rytr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
