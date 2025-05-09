@@ -1,12 +1,12 @@
 gestion de présentation
 
-# Presentation Management
+# Gestion de la présentation
 
 > Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Sous-homme](./PODMAN.md)
@@ -18,7 +18,7 @@ gestion de présentation
 
 Texte
 
-Generated with [Ritr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
