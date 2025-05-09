@@ -1,4 +1,4 @@
-presentation-management
+إدارة العرض
 
 # إدارة العرض
 
@@ -16,7 +16,7 @@ presentation-management
 
 **ملخص تنفيذي**
 
-نص
+Text
 
 ولدت مع[ريتر](https://app.rytr.me)
 
