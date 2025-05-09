@@ -2,7 +2,7 @@ presentatiebeheer
 
 # Presentatiebeheer
 
-> Slugline
+> Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
