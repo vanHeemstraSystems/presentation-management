@@ -1,6 +1,6 @@
 gestión de presentación
 
-# Presentation Management
+# Gestión de la presentación
 
 > Línea de babosa
 
@@ -18,7 +18,7 @@ gestión de presentación
 
 Texto
 
-Generado con[Ritro](https://app.rytr.me)
+Generated with [Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
