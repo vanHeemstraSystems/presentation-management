@@ -64,3 +64,18 @@ Next, you will be prompted:
 ```
 ...
 ```
+
+Start local server to show the slide (here: ```slide.md```):
+
+```
+$ cd presentations
+$ nodeppt serve slide.md
+```
+
+To build a slide (here: ```slide.md```), run:
+
+```
+$ cd presentations
+$ nodeppt build slide.md
+```
+

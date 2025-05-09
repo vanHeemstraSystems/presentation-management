@@ -1,0 +1,38 @@
+{
+    "name": "nodeppt-js",
+    "version": "3.0.0",
+    "description": "refactor of nodeppt-js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+      "name": "van Heemstra Systems",
+      "email": "wvanheemstra@icloud.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github/vanHeemstraSystems/presentation-management"
+    },
+    "license": "MIT",
+    "keywords": [
+        "presentation",
+        "powerpoint",
+        "slideshow",
+        "keynote",
+        "ppt",
+        "slide",
+        "revealjs",
+        "impressjs",
+        "markdown-it",
+        "posthtml",
+        "webpack",
+        "nodeppt",
+        "markdown"
+    ],
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "username": "^7.0.0",
+        "webslides":"^1.5.0"
+    }
+}
