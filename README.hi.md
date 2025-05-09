@@ -1,16 +1,16 @@
 प्रस्तुति-प्रबंधन
 
-# Presentation Management
+# प्रस्तुति प्रबंधन
 
-> स्लगलाइन
+> Slugline
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [मेजबान](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [सबमैन](./PODMAN.md)
--   [संदर्भ](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
@@ -24,7 +24,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
@@ -32,6 +32,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
