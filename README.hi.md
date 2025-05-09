@@ -1,10 +1,10 @@
 प्रस्तुति-प्रबंधन
 
-# प्रस्तुति प्रबंधन
+# Presentation Management
 
 > स्लगलाइन
 
--   [DNS](./DNS.md)
+-   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
@@ -20,7 +20,7 @@
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
