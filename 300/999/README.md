@@ -47,7 +47,7 @@ A file called ```slide.md``` has ben created in the directory "presentations" at
 Alternatively, create a new slide straight from a github template:
 
 ```
-$ nodeppt new slide.md -t vanHeemstraSystems/presentation-management
+$ nodeppt new slide.md -t vanHeemstraSystems/nodeppt-template-default
 ```
 
 You will be prompted:
