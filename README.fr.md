@@ -14,9 +14,9 @@ gestion de présentation
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
-Text
+Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
