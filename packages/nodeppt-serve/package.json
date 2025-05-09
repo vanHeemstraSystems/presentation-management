@@ -1,0 +1,65 @@
+{
+    "name": "nodeppt-serve",
+    "version": "3.0.0",
+    "description": "modernization of 2.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "presentation",
+        "powerpoint",
+        "slideshow",
+        "keynote",
+        "ppt",
+        "slide",
+        "revealjs",
+        "impressjs",
+        "markdown-it",
+        "posthtml",
+        "webpack",
+        "nodeppt",
+        "markdown"
+    ],
+    "author": {
+        "name": "vanHeemstraSystems",
+        "email": "wvanheemstra@icloud.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vanHeemstraSystems/presentation-management"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@babel/core": "7.27.1",
+        "babel-loader": "10.0.0",
+        "case-sensitive-paths-webpack-plugin": "2.4.0",
+        "chalk": "^5.4.1",
+        "commander": "^13.1.0",
+        "copy-webpack-plugin": "~13.0.0",
+        "css-loader": "7.1.2",
+        "file-loader": "6.2.0",
+        "friendly-errors-webpack-plugin": "1.7.0",
+        "html-loader": "5.1.0",
+        "html-webpack-plugin": "^5.6.3",
+        "import-global": "^1.1.1",
+        "less": "^4.3.0",
+        "less-loader": "~12.3.0",
+        "lodash.defaultsdeep": "^4.6.1",
+        "mini-css-extract-plugin": "2.9.2",
+        "nodeppt-js": "^2.2.2",
+        "nodeppt-parser": "^2.2.2",
+        "nodeppt-shared-utils": "^2.2.2",
+        "optimize-css-assets-webpack-plugin": "^6.0.1",
+        "portfinder": "^1.0.37",
+        "semver": "^7.7.1",
+        "style-loader": "4.0.0",
+        "terser-webpack-plugin": "^5.3.14",
+        "url-loader": "4.1.1",
+        "webpack": "~5.99.8",
+        "webpack-chain": "~6.5.1",
+        "webpack-dev-server": "^5.2.1",
+        "webpack-merge": "~6.0.1"
+    },
+    "gitHead": ""
+}
