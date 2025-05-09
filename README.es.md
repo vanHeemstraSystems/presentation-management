@@ -9,12 +9,12 @@ gestión de presentación
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Submario](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 
@@ -24,7 +24,7 @@ Generado con[Ritro](https://app.rytr.me)
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
