@@ -18,7 +18,7 @@
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+ولدت مع[Rytr](https://app.rytr.me)
 
 ## 100 - مقدمة
 
