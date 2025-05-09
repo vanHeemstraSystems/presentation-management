@@ -5,7 +5,7 @@ presentatiebeheer
 > Sluglijn
 
 -   [DNS](./DNS.md)
--   [Documentatie](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
@@ -18,7 +18,7 @@ presentatiebeheer
 
 Tekst
 
-Generated with [Ritr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
