@@ -16,11 +16,11 @@ presentatiebeheer
 
 **Uitvoerende samenvatting**
 
-Text
+Tekst
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Inleiding
 
 Zien[README.md](./100/README.md)
 
