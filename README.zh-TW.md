@@ -2,7 +2,7 @@
 
 # 演示管理
 
-> 板條
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
